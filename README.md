@@ -23,10 +23,10 @@
   <summary>:zap: GitHub Stats</summary>
 
   <br />
-  <img align="left" alt="NirosTen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NirosTen&count_private=true&show_icons=true?theme=buefy" />
+  <img align="left" alt="NirosTen's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NirosTen&show_icons=true&hide_border=true" />
 
-  <!-- <img align="left" alt="NirosTen's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirosTen" /> -->
-  <img align="left" alt="NirosTen's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirosTen&layout=compact" />
+  <img align="left" alt="NirosTen's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirosTen" />
+
 </details>
 
 <br />
