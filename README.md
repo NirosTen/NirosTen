@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://nirosten.vercel.app/api/spotify)](https://open.spotify.com/user/37q2zf1wuxj764insdn7uoomy?si=tkbCMM9oSAW_-NDrX6XevA)
+[![Spotify](https://novatorem-spotify.nirosten.vercel.app/api/spotify)](https://open.spotify.com/user/37q2zf1wuxj764insdn7uoomy?si=tkbCMM9oSAW_-NDrX6XevA)
 
 
 ### Connect with me:
