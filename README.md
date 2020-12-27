@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem1.nirosten.vercel.app/api/spotify-playing" alt="NirosTen Spotify Playing" width="350" />](https://open.spotify.com/user/37q2zf1wuxj764insdn7uoomy?si=oN8xMYvUTrSdZ9imVm4QJA)
+[![Spotify](https://nirosten.vercel.app/api/spotify)](https://open.spotify.com/user/37q2zf1wuxj764insdn7uoomy?si=tkbCMM9oSAW_-NDrX6XevA)
 
 
 ### Connect with me:
