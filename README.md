@@ -29,6 +29,8 @@
 
 </details>
 
+<br />
+
 <details>
     <summary>💻 Languages and Tools:</summary>
 
