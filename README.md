@@ -24,6 +24,8 @@
 
   <br />
   <img align="left" alt="NirosTen's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NirosTen&show_icons=true&hide_border=true" />
+  <br />
+  <img align="left" alt="NirosTen's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirosTen" />
 
 </details>
 
