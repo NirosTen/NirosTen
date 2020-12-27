@@ -10,11 +10,6 @@
 - 🎸 Otherwise I play the electric guitar
 
 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-spotify.nirosten.vercel.app/api/spotify)](https://open.spotify.com/user/37q2zf1wuxj764insdn7uoomy?si=tkbCMM9oSAW_-NDrX6XevA)
-
-
 ### Connect with me:
 
 [<img align="left" alt="NirosTen | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
