@@ -23,7 +23,8 @@
 
 ___
 
-##Recent Activities on GitHub
+## <a href="https://github.com/NirosTen"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
+
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#24](https://github.com/manups4e/ScaleformUI/pull/24) in [manups4e/ScaleformUI](https://github.com/manups4e/ScaleformUI)
