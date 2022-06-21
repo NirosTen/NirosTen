@@ -23,6 +23,8 @@
 
 </br>
 
+##Recent Activities on GitHub
+
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#24](https://github.com/manups4e/ScaleformUI/pull/24) in [manups4e/ScaleformUI](https://github.com/manups4e/ScaleformUI)
 2. 💪 Opened PR [#23](https://github.com/manups4e/ScaleformUI/pull/23) in [manups4e/ScaleformUI](https://github.com/manups4e/ScaleformUI)
