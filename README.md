@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm NirosTen</h1>
 <h3 align="center">a student who occupies these days when he has nothing to do</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8f/3d/6c/8f3d6c851dd7f442dd7cfb1a1b94ee84.gif">
 
 </br>
 
