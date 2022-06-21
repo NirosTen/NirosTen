@@ -23,7 +23,7 @@
 
 ___
 
-## <a href="https://github.com/NirosTen"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
+## <a href="https://github.com/NirosTen"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 
 <!--START_SECTION:activity-->
@@ -31,7 +31,13 @@ ___
 2. 💪 Opened PR [#23](https://github.com/manups4e/ScaleformUI/pull/23) in [manups4e/ScaleformUI](https://github.com/manups4e/ScaleformUI)
 <!--END_SECTION:activity-->
 
+## 📊 GitHub Statistic
+
+<p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=nirosten&show_icons=true&locale=en" alt="nirosten" /> <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nirosten&" alt="nirosten" /></p>
+
 </br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirosten&show_icons=true&locale=en&layout=compact" alt="nirosten" /></p>
 
 <details>
   <summary>🏆 Github trophy:</summary>
@@ -40,11 +46,3 @@ ___
   
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirosten" alt="nirosten" /></a></p>
 </details>
-
-</br>
-
-<p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=nirosten&show_icons=true&locale=en" alt="nirosten" /> <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nirosten&" alt="nirosten" /></p>
-
-</br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirosten&show_icons=true&locale=en&layout=compact" alt="nirosten" /></p>
