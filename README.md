@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nirosten1" target="blank"><img src="https://img.shields.io/twitter/follow/nirosten1?logo=twitter&style=for-the-badge" alt="nirosten1" /></a> <img width="155" src="https://komarev.com/ghpvc/?username=nirosten&label=Profile%20views&color=710ba8&style=flat-square" alt="nirosten" /> <a href="https://www.twitch.tv/nirosten"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/nirosten?style=for-the-badge&logo=twitch&color=8a43f2">&nbsp;</p></a>
 
-- 🔭 I’m currently working on [Vision](https://discord.gg/visionrp)
+- 🔭 I’m currently working on [CityV](https://discord.gg/cityv)
 
 - 🌱 I’m currently learning **JS, react, java**
 
